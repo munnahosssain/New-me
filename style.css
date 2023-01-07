@@ -100,6 +100,23 @@
     margin-bottom: 15px;
 }
 
+/* Blog Section */
+
+.blog {
+    height: 500px;
+    display: flex;
+    /* margin-top: 100px; */
+    line-height: 25px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.blog-cart{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: -20px;
+}
+
 /* Footer Section */
 
 .footer-wrapper {
