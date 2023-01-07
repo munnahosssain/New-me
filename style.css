@@ -35,24 +35,38 @@
     margin: 100px 0 0 200px;
 }
 
+.plan {
+    margin-top: 300px;
+    text-align: center;
+    height: 600px;
+}
+
+.plan-text {
+    font-weight: 800;
+    margin-bottom: 55px;
+    font-size: 35px;
+}
+
 .my-plan {
     display: flex;
+    line-height: 40px;
     align-items: center;
     justify-content: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
+
+
 
 .footer-wrapper {
     height: 577px;
     background-color: #151414;
-    ;
 }
 
 .footer-content {
     padding: 150px 0;
 }
 
-.subscribe-input{
+.subscribe-input {
     height: 44px;
     width: 325px;
     border: 1px solid white;
