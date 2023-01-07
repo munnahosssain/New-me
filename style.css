@@ -22,7 +22,8 @@
 } */
 
 .about{
-    margin: 0 150px;
+    margin: 150px 450px 0 450px;
+    /* margin: 0 450px; */
     display: flex;
     align-items: center;
 }
