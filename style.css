@@ -4,6 +4,16 @@
     /* height: 100%; */
 }
 
+.common-button{
+    height: 50px;
+    width: 120px;
+    color: #F15B22;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    border-radius: 7px;
+}
+
 .container {
     margin: 0 230px;
 }
@@ -35,6 +45,8 @@
     margin: 100px 0 0 200px;
 }
 
+/* My Plan Section */
+
 .plan {
     margin-top: 300px;
     text-align: center;
@@ -55,7 +67,26 @@
     justify-content: space-between;
 }
 
+/* Watch Band Section*/
 
+.hand-watch{
+    height: 700px;
+}
+
+.watch-image {
+    padding: 200px 0;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url('images/watch.png');
+    content: '';
+    background-imag+e: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+}
+
+.watch-band {
+    /* background-size: cover; */
+}
+
+/* Footer Section */
 
 .footer-wrapper {
     height: 577px;
@@ -75,13 +106,13 @@
     margin: 20px 0;
 }
 
-.subscribe {
+/* .subscribe {
     height: 50px;
     width: 120px;
     color: #F15B22;
     font-size: 15px;
     font-weight: 700;
     border-radius: 10px;
-}
+} */
 
 /* style="background-image: url('images/banner/banner2.png'); background-repeat: no-repeat; background-size: cove;" */
